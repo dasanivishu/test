@@ -1,6 +1,4 @@
-Certainly! Here’s the complete `README.md` file content in Markdown format. You can copy and paste this into your `README.md` file.
 
-```markdown
 # Magical Arena
 
 Welcome to the **Magical Arena** game! This project simulates a turn-based battle between two players in a magical arena. Players take turns attacking each other until one player's health reaches zero.
